@@ -1,5 +1,6 @@
 # 🚀 QuizHub - Nền tảng Ôn luyện & Tạo đề trắc nghiệm thông minh với AI
 
+
 QuizHub là ứng dụng web toàn diện dành cho việc quản lý, tạo lập và ôn luyện các bộ câu hỏi trắc nghiệm trực tuyến. Điểm nổi bật của QuizHub là tích hợp **Google Gemini AI API** để hỗ trợ giáo viên tự động sinh câu hỏi thông minh dựa trên tài liệu bài học có sẵn.
 
 Hệ thống được thiết kế với giao diện cao cấp, hiện đại, mang tính nhất quán cao về nhận diện thương hiệu (Gradient Xanh lá lam cho Học sinh & Giáo viên, Gradient Tím cho Admin).
